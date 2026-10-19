@@ -1,5 +1,5 @@
 # MapType
-
+ 
 A tiny, header-only C++20 concept that restricts templates to standard map containers: `std::map` and `std::unordered_map`.
 
 ```cpp
